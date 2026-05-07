@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 --!>
 
 <!--
 **Main-Kottaboung/Main-Kottaboung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Main-Kottaboung&theme=github_dark" alt="General stats badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Main-Kottaboung&theme=github_dark" alt="Profile details badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Main-Kottaboung&theme=github_dark" alt="Top languages by repo badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Main-Kottaboung&theme=github_dark" alt="Top languages by commit badge"/>
