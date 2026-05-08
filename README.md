@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Main-Kottaboung&label=Profile%20views&color=00ff1e&style=flat" alt="Main-Kottaboung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Main-Kottaboung&label=Profile%20views&color=ff8000&style=flat" alt="Main-Kottaboung" /> </p>
 
 <table>
   <tr>
